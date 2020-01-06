@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+table, th, td {
+  border:1px solid blue;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.two table , .two th, .two td {
+  border:1px solid green;
+}
